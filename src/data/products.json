@@ -1,0 +1,50 @@
+[
+  {
+    "id": "tshirt001",
+    "name": "Classic T-shirt",
+    "description": "En bekväm t-shirt i 100% bomull.",
+    "price": 199,
+    "image": "/images/team-feh.jpg",
+    "category": "T-shirts",
+    "sizes": {
+      "XS": 0,
+      "S": 12,
+      "M": 8,
+      "L": 5,
+      "XL": 0,
+      "OneSize": 0
+    }
+  },
+  {
+    "id": "hoodie001",
+    "name": "Soft Hoodie",
+    "description": "En varm hoodie perfekt för kalla dagar.",
+    "price": 399,
+    "image": "/images/team-feh.jpg",
+    "category": "Hoodies",
+    "sizes": {
+      "XS": 2,
+      "S": 4,
+      "M": 6,
+      "L": 3,
+      "XL": 1,
+      "OneSize": 0
+    }
+  },
+  {
+    "id": "cap001",
+    "name": "Street Cap",
+    "description": "Snapback-keps i stilren design.",
+    "price": 149,
+    "image": "/images/team-feh.jpg",
+    "category": "Accessoarer",
+    "sizes": {
+      "XS": 0,
+      "S": 0,
+      "M": 0,
+      "L": 0,
+      "XL": 0,
+      "OneSize": 10
+    }
+  }
+]
